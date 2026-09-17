@@ -76,6 +76,3 @@ StudentManagementSystem/
 * Java Swing/JavaFX GUI
 * User Authentication
 
-## Author
-
-Student Project – Student Management System
